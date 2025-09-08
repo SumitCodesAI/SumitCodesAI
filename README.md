@@ -63,7 +63,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Srivastava-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-srivastava1103/)
-[![Email](https://img.shields.io/badge/Email-sumit@example.com-red?logo=gmail)](mailto:sumitsri051@gmail.com)
+[![Email](https://img.shields.io/badge/sumitsri051@gmail.com-red?logo=gmail)](mailto:sumitsri051@gmail.com)
 
 ---
 
