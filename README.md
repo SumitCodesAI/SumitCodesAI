@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Sumit+Srivastava+%7C+AI+Engineer+in+Making" alt="Sumit Srivastava Banner" />
+  <img src="https://github.com/SumitCodesAI/SumitCodesAI/raw/main/assets/banner.png" alt="Sumit Srivastava Banner" />
 </p>
 
 <!-- Typing Intro -->
