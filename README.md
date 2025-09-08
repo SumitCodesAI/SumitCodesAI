@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://imgur.com/a/Pm4mg4k" alt="Sumit Srivastava Banner" />
+  <img src="https://i.imgur.com/lUsfPby.png" alt="Sumit Srivastava | AI Engineer Banner" />
 </p>
 
 <!-- Typing Intro -->
